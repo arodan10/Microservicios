@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d1f420e-8ebf-472d-ab6a-9c907e2fc24b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../auth/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../auth/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../auth/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../auth/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../auth/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../auth/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../auth/src/main/java/com/example/auth/AuthApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../auth/src/test/java/com/example/auth/AuthApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-service.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/config-data.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../config-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/auth-service.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +36,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\UPeU\ciclo5\Aplicaciones distribuidas\microservicios practica\microservicios\config-data" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -65,7 +57,7 @@
       <workItem from="1684109769681" duration="6639000" />
       <workItem from="1684534695370" duration="95000" />
       <workItem from="1684538935996" duration="1238000" />
-      <workItem from="1684769174122" duration="702000" />
+      <workItem from="1684769174122" duration="1020000" />
     </task>
     <servers />
   </component>
